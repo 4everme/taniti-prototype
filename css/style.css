@@ -58,4 +58,10 @@ body {
     list-style-type: none;
     padding-left: 0;
   }
+  .lodging-list {
+    list-style-type: none;
+    padding-left: 0;
+    text-align: left;
+    display: inline-block;
+  }
   
