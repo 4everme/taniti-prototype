@@ -64,4 +64,24 @@ body {
     text-align: left;
     display: inline-block;
   }
+  .footer-content {
+    font-size: 0.9em;
+    line-height: 1.5;
+  }
+  
+  .footer-content a {
+    color: #cccccc;
+    text-decoration: underline;
+  }
+  
+  .footer-content a:hover {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .citation {
+    font-size: 0.8em;
+    color: #cccccc;
+    margin-top: 5px;
+  }
   
